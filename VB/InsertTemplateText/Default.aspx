@@ -1,12 +1,12 @@
 ﻿<%@ Page Language="vb" AutoEventWireup="true" CodeBehind="Default.aspx.vb" Inherits="InsertTemplateText._Default" %>
 
-<%@ Register Assembly="DevExpress.Web.ASPxHtmlEditor.v9.3, Version=9.3.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
+<%@ Register Assembly="DevExpress.Web.ASPxHtmlEditor.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
 	Namespace="DevExpress.Web.ASPxHtmlEditor" TagPrefix="dx" %>
 
-<%@ Register assembly="DevExpress.Web.ASPxEditors.v9.3, Version=9.3.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" namespace="DevExpress.Web.ASPxEditors" tagprefix="dx" %>
-<%@ Register assembly="DevExpress.Web.ASPxSpellChecker.v9.3, Version=9.3.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" namespace="DevExpress.Web.ASPxSpellChecker" tagprefix="dx" %>
+<%@ Register assembly="DevExpress.Web.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" namespace="DevExpress.Web.ASPxEditors" tagprefix="dx" %>
+<%@ Register assembly="DevExpress.Web.ASPxSpellChecker.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" namespace="DevExpress.Web.ASPxSpellChecker" tagprefix="dx" %>
 
-<%@ Register assembly="DevExpress.Web.v9.3, Version=9.3.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" namespace="DevExpress.Web.ASPxPopupControl" tagprefix="dx" %>
+<%@ Register assembly="DevExpress.Web.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" namespace="DevExpress.Web.ASPxPopupControl" tagprefix="dx" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
@@ -19,7 +19,7 @@
 	<div>
 		<dx:ASPxHtmlEditor ID="ASPxHtmlEditor1" runat="server" ClientInstanceName="htmlEditor">
 			<Toolbars>
-				<dx:StandardToolbar1>
+				<dx:HtmlEditorToolbar>
 					<Items>
 						<dx:ToolbarCutButton>
 						</dx:ToolbarCutButton>
@@ -92,8 +92,8 @@
 							</Items>
 						</dx:ToolbarTableOperationsDropDownButton>
 					</Items>
-				</dx:StandardToolbar1>
-				<dx:StandardToolbar2>
+				</dx:HtmlEditorToolbar>
+				<dx:HtmlEditorToolbar>
 					<Items>
 						<dx:ToolbarParagraphFormattingEdit Width="120px">
 							<Items>
@@ -150,13 +150,13 @@
 						<dx:ToolbarFontColorButton>
 						</dx:ToolbarFontColorButton>
 					</Items>
-				</dx:StandardToolbar2>
-				<dx:CustomToolbar>
+				</dx:HtmlEditorToolbar>
+				<dx:HtmlEditorToolbar>
 					<Items>
 						<dx:CustomToolbarButton CommandName="CustomInsertText" Text="Insert Signature">
 						</dx:CustomToolbarButton>
 					</Items>
-				</dx:CustomToolbar>
+				</dx:HtmlEditorToolbar>
 			</Toolbars>
 			<ClientSideEvents CustomCommand="function(s, e) {
 	if(e.commandName == 'CustomInsertText') {
