@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/InsertTemplateText/Default.aspx) (VB: [Default.aspx](./VB/InsertTemplateText/Default.aspx))
+* [Default.aspx.cs](./CS/InsertTemplateText/Default.aspx.cs) (VB: [Default.aspx](./VB/InsertTemplateText/Default.aspx))
+<!-- default file list end -->
 # How to provide an end-user with a list of templates to insert into the editor
 
 
