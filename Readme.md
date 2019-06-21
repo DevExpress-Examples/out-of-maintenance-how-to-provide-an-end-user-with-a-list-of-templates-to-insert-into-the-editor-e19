@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/InsertTemplateText/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/InsertTemplateText/Default.aspx.vb))
 <!-- default file list end -->
 # How to provide an end-user with a list of templates to insert into the editor
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1974/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to open a popup window where an end-user can select from predefined text templates. A selected template is pasted into the <a href="http://documentation.devexpress.com/#AspNet/clsDevExpressWebASPxHtmlEditorASPxHtmlEditortopic">ASPxHtmlEditor</a> at the beginning of the editor's text. Suggestion <a href="https://www.devexpress.com/Support/Center/p/S33787">Implement client-side methods and events to work with selection</a> must be implemented before it will be possible to insert text at the current cursor location.</p><p><strong>See Also:</strong><br />
