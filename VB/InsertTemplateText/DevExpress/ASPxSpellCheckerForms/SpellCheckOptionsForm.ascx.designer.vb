@@ -28,7 +28,7 @@ Partial Public Class SpellCheckOptionsForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected pnlOptions As Global.DevExpress.Web.ASPxRoundPanel.ASPxRoundPanel
+	Protected pnlOptions As Global.DevExpress.Web.ASPxRoundPanel
 
 	''' <summary>
 	''' chkbUpperCase control.
@@ -37,7 +37,7 @@ Partial Public Class SpellCheckOptionsForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected chkbUpperCase As Global.DevExpress.Web.ASPxEditors.ASPxCheckBox
+	Protected chkbUpperCase As Global.DevExpress.Web.ASPxCheckBox
 
 	''' <summary>
 	''' chkbMixedCase control.
@@ -46,7 +46,7 @@ Partial Public Class SpellCheckOptionsForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected chkbMixedCase As Global.DevExpress.Web.ASPxEditors.ASPxCheckBox
+	Protected chkbMixedCase As Global.DevExpress.Web.ASPxCheckBox
 
 	''' <summary>
 	''' chkbNumbers control.
@@ -55,7 +55,7 @@ Partial Public Class SpellCheckOptionsForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected chkbNumbers As Global.DevExpress.Web.ASPxEditors.ASPxCheckBox
+	Protected chkbNumbers As Global.DevExpress.Web.ASPxCheckBox
 
 	''' <summary>
 	''' chkbEmails control.
@@ -64,7 +64,7 @@ Partial Public Class SpellCheckOptionsForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected chkbEmails As Global.DevExpress.Web.ASPxEditors.ASPxCheckBox
+	Protected chkbEmails As Global.DevExpress.Web.ASPxCheckBox
 
 	''' <summary>
 	''' chkbUrls control.
@@ -73,7 +73,7 @@ Partial Public Class SpellCheckOptionsForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected chkbUrls As Global.DevExpress.Web.ASPxEditors.ASPxCheckBox
+	Protected chkbUrls As Global.DevExpress.Web.ASPxCheckBox
 
 	''' <summary>
 	''' chkbTags control.
@@ -82,7 +82,7 @@ Partial Public Class SpellCheckOptionsForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected chkbTags As Global.DevExpress.Web.ASPxEditors.ASPxCheckBox
+	Protected chkbTags As Global.DevExpress.Web.ASPxCheckBox
 
 	''' <summary>
 	''' pnlLanguageSelection control.
@@ -91,7 +91,7 @@ Partial Public Class SpellCheckOptionsForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected pnlLanguageSelection As Global.DevExpress.Web.ASPxRoundPanel.ASPxRoundPanel
+	Protected pnlLanguageSelection As Global.DevExpress.Web.ASPxRoundPanel
 
 	''' <summary>
 	''' comboLanguage control.
@@ -100,7 +100,7 @@ Partial Public Class SpellCheckOptionsForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected comboLanguage As Global.DevExpress.Web.ASPxEditors.ASPxComboBox
+	Protected comboLanguage As Global.DevExpress.Web.ASPxComboBox
 
 	''' <summary>
 	''' btnOK control.
@@ -109,7 +109,7 @@ Partial Public Class SpellCheckOptionsForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected btnOK As Global.DevExpress.Web.ASPxEditors.ASPxButton
+	Protected btnOK As Global.DevExpress.Web.ASPxButton
 
 	''' <summary>
 	''' btnCancel control.
@@ -118,5 +118,5 @@ Partial Public Class SpellCheckOptionsForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected btnCancel As Global.DevExpress.Web.ASPxEditors.ASPxButton
+	Protected btnCancel As Global.DevExpress.Web.ASPxButton
 End Class

@@ -28,7 +28,7 @@ Partial Public Class ImagePropertiesForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected lblSize As Global.DevExpress.Web.ASPxEditors.ASPxLabel
+	Protected lblSize As Global.DevExpress.Web.ASPxLabel
 
 	''' <summary>
 	''' cmbSize control.
@@ -37,7 +37,7 @@ Partial Public Class ImagePropertiesForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected cmbSize As Global.DevExpress.Web.ASPxEditors.ASPxComboBox
+	Protected cmbSize As Global.DevExpress.Web.ASPxComboBox
 
 	''' <summary>
 	''' lblWidth control.
@@ -46,7 +46,7 @@ Partial Public Class ImagePropertiesForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected lblWidth As Global.DevExpress.Web.ASPxEditors.ASPxLabel
+	Protected lblWidth As Global.DevExpress.Web.ASPxLabel
 
 	''' <summary>
 	''' spnWidth control.
@@ -55,7 +55,7 @@ Partial Public Class ImagePropertiesForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected spnWidth As Global.DevExpress.Web.ASPxEditors.ASPxSpinEdit
+	Protected spnWidth As Global.DevExpress.Web.ASPxSpinEdit
 
 	''' <summary>
 	''' lblPixelWidth control.
@@ -64,7 +64,7 @@ Partial Public Class ImagePropertiesForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected lblPixelWidth As Global.DevExpress.Web.ASPxEditors.ASPxLabel
+	Protected lblPixelWidth As Global.DevExpress.Web.ASPxLabel
 
 	''' <summary>
 	''' lblHeight control.
@@ -73,7 +73,7 @@ Partial Public Class ImagePropertiesForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected lblHeight As Global.DevExpress.Web.ASPxEditors.ASPxLabel
+	Protected lblHeight As Global.DevExpress.Web.ASPxLabel
 
 	''' <summary>
 	''' spnHeight control.
@@ -82,7 +82,7 @@ Partial Public Class ImagePropertiesForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected spnHeight As Global.DevExpress.Web.ASPxEditors.ASPxSpinEdit
+	Protected spnHeight As Global.DevExpress.Web.ASPxSpinEdit
 
 	''' <summary>
 	''' lblPixelHeight control.
@@ -91,7 +91,7 @@ Partial Public Class ImagePropertiesForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected lblPixelHeight As Global.DevExpress.Web.ASPxEditors.ASPxLabel
+	Protected lblPixelHeight As Global.DevExpress.Web.ASPxLabel
 
 	''' <summary>
 	''' cellContarainTop control.
@@ -127,9 +127,9 @@ Partial Public Class ImagePropertiesForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected ckbCreateThumbnail As Global.DevExpress.Web.ASPxEditors.ASPxCheckBox
+	Protected ckbCreateThumbnail As Global.DevExpress.Web.ASPxCheckBox
 
-	Protected ckbWrapTextArroundImage As Global.DevExpress.Web.ASPxEditors.ASPxCheckBox
+	Protected ckbWrapTextArroundImage As Global.DevExpress.Web.ASPxCheckBox
 
 	''' <summary>
 	''' lblThumbnailFileName control.
@@ -138,7 +138,7 @@ Partial Public Class ImagePropertiesForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected lblThumbnailFileName As Global.DevExpress.Web.ASPxEditors.ASPxLabel
+	Protected lblThumbnailFileName As Global.DevExpress.Web.ASPxLabel
 
 	''' <summary>
 	''' txbThumbnailFileName control.
@@ -147,7 +147,7 @@ Partial Public Class ImagePropertiesForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected txbThumbnailFileName As Global.DevExpress.Web.ASPxEditors.ASPxTextBox
+	Protected txbThumbnailFileName As Global.DevExpress.Web.ASPxTextBox
 
 	''' <summary>
 	''' lblImagePosition control.
@@ -156,7 +156,7 @@ Partial Public Class ImagePropertiesForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected lblImagePosition As Global.DevExpress.Web.ASPxEditors.ASPxLabel
+	Protected lblImagePosition As Global.DevExpress.Web.ASPxLabel
 
 	''' <summary>
 	''' cmbImagePosition control.
@@ -165,7 +165,7 @@ Partial Public Class ImagePropertiesForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected cmbImagePosition As Global.DevExpress.Web.ASPxEditors.ASPxComboBox
+	Protected cmbImagePosition As Global.DevExpress.Web.ASPxComboBox
 
 	''' <summary>
 	''' lblImageDescription control.
@@ -174,7 +174,7 @@ Partial Public Class ImagePropertiesForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected lblImageDescription As Global.DevExpress.Web.ASPxEditors.ASPxLabel
+	Protected lblImageDescription As Global.DevExpress.Web.ASPxLabel
 
 	''' <summary>
 	''' txbDescription control.
@@ -183,5 +183,5 @@ Partial Public Class ImagePropertiesForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected txbDescription As Global.DevExpress.Web.ASPxEditors.ASPxTextBox
+	Protected txbDescription As Global.DevExpress.Web.ASPxTextBox
 End Class

@@ -25,7 +25,7 @@ public partial class SpellCheckOptionsForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxRoundPanel.ASPxRoundPanel pnlOptions;
+    protected global::DevExpress.Web.ASPxRoundPanel pnlOptions;
     
     /// <summary>
     /// chkbUpperCase control.
@@ -34,7 +34,7 @@ public partial class SpellCheckOptionsForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxCheckBox chkbUpperCase;
+    protected global::DevExpress.Web.ASPxCheckBox chkbUpperCase;
     
     /// <summary>
     /// chkbMixedCase control.
@@ -43,7 +43,7 @@ public partial class SpellCheckOptionsForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxCheckBox chkbMixedCase;
+    protected global::DevExpress.Web.ASPxCheckBox chkbMixedCase;
     
     /// <summary>
     /// chkbNumbers control.
@@ -52,7 +52,7 @@ public partial class SpellCheckOptionsForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxCheckBox chkbNumbers;
+    protected global::DevExpress.Web.ASPxCheckBox chkbNumbers;
     
     /// <summary>
     /// chkbEmails control.
@@ -61,7 +61,7 @@ public partial class SpellCheckOptionsForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxCheckBox chkbEmails;
+    protected global::DevExpress.Web.ASPxCheckBox chkbEmails;
     
     /// <summary>
     /// chkbUrls control.
@@ -70,7 +70,7 @@ public partial class SpellCheckOptionsForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxCheckBox chkbUrls;
+    protected global::DevExpress.Web.ASPxCheckBox chkbUrls;
     
     /// <summary>
     /// chkbTags control.
@@ -79,7 +79,7 @@ public partial class SpellCheckOptionsForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxCheckBox chkbTags;
+    protected global::DevExpress.Web.ASPxCheckBox chkbTags;
     
     /// <summary>
     /// pnlLanguageSelection control.
@@ -88,7 +88,7 @@ public partial class SpellCheckOptionsForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxRoundPanel.ASPxRoundPanel pnlLanguageSelection;
+    protected global::DevExpress.Web.ASPxRoundPanel pnlLanguageSelection;
     
     /// <summary>
     /// comboLanguage control.
@@ -97,7 +97,7 @@ public partial class SpellCheckOptionsForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxComboBox comboLanguage;
+    protected global::DevExpress.Web.ASPxComboBox comboLanguage;
     
     /// <summary>
     /// btnOK control.
@@ -106,7 +106,7 @@ public partial class SpellCheckOptionsForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxButton btnOK;
+    protected global::DevExpress.Web.ASPxButton btnOK;
     
     /// <summary>
     /// btnCancel control.
@@ -115,5 +115,5 @@ public partial class SpellCheckOptionsForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxButton btnCancel;
+    protected global::DevExpress.Web.ASPxButton btnCancel;
 }

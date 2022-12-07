@@ -26,9 +26,8 @@ Imports System.Web.UI.WebControls.WebParts
 Imports System.Web.UI.HtmlControls
 Imports DevExpress.Web.ASPxHtmlEditor
 Imports DevExpress.Web.ASPxHtmlEditor.Localization
-Imports DevExpress.Web.ASPxClasses
-Imports DevExpress.Web.ASPxEditors
-Imports DevExpress.Web.ASPxClasses.Internal
+Imports DevExpress.Web
+Imports DevExpress.Web.Internal
 
 Partial Public Class ImagePropertiesForm
 	Inherits HtmlEditorUserControl

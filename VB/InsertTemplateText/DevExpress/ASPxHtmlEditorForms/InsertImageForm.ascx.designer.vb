@@ -28,7 +28,7 @@ Partial Public Class InsertImageForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected Panel1 As Global.DevExpress.Web.ASPxPanel.ASPxPanel
+	Protected Panel1 As Global.DevExpress.Web.ASPxPanel
 
 	''' <summary>
 	''' rblFromTheWeb control.
@@ -37,7 +37,7 @@ Partial Public Class InsertImageForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected rblFromTheWeb As Global.DevExpress.Web.ASPxEditors.ASPxRadioButton
+	Protected rblFromTheWeb As Global.DevExpress.Web.ASPxRadioButton
 
 	''' <summary>
 	''' rblFromThisComputer control.
@@ -46,7 +46,7 @@ Partial Public Class InsertImageForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected rblFromThisComputer As Global.DevExpress.Web.ASPxEditors.ASPxRadioButton
+	Protected rblFromThisComputer As Global.DevExpress.Web.ASPxRadioButton
 
 	''' <summary>
 	''' rpInsertImage control.
@@ -64,7 +64,7 @@ Partial Public Class InsertImageForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected lblImageUrl As Global.DevExpress.Web.ASPxEditors.ASPxLabel
+	Protected lblImageUrl As Global.DevExpress.Web.ASPxLabel
 
 	''' <summary>
 	''' txbInsertImageUrl control.
@@ -73,7 +73,7 @@ Partial Public Class InsertImageForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected txbInsertImageUrl As Global.DevExpress.Web.ASPxEditors.ASPxTextBox
+	Protected txbInsertImageUrl As Global.DevExpress.Web.ASPxTextBox
 
 	''' <summary>
 	''' ckbSaveToServer control.
@@ -82,7 +82,7 @@ Partial Public Class InsertImageForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected ckbSaveToServer As Global.DevExpress.Web.ASPxEditors.ASPxCheckBox
+	Protected ckbSaveToServer As Global.DevExpress.Web.ASPxCheckBox
 
 	''' <summary>
 	''' lblBrowse control.
@@ -91,7 +91,7 @@ Partial Public Class InsertImageForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected lblBrowse As Global.DevExpress.Web.ASPxEditors.ASPxLabel
+	Protected lblBrowse As Global.DevExpress.Web.ASPxLabel
 
 	''' <summary>
 	''' uplImage control.
@@ -118,7 +118,7 @@ Partial Public Class InsertImageForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected ckbMoreImageOptions As Global.DevExpress.Web.ASPxEditors.ASPxCheckBox
+	Protected ckbMoreImageOptions As Global.DevExpress.Web.ASPxCheckBox
 
 	''' <summary>
 	''' btnInsertImage control.
@@ -127,7 +127,7 @@ Partial Public Class InsertImageForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected btnInsertImage As Global.DevExpress.Web.ASPxEditors.ASPxButton
+	Protected btnInsertImage As Global.DevExpress.Web.ASPxButton
 
 	''' <summary>
 	''' btnChangeImage control.
@@ -136,7 +136,7 @@ Partial Public Class InsertImageForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected btnChangeImage As Global.DevExpress.Web.ASPxEditors.ASPxButton
+	Protected btnChangeImage As Global.DevExpress.Web.ASPxButton
 
 	''' <summary>
 	''' btnInsertImageCancel control.
@@ -145,5 +145,5 @@ Partial Public Class InsertImageForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected btnInsertImageCancel As Global.DevExpress.Web.ASPxEditors.ASPxButton
+	Protected btnInsertImageCancel As Global.DevExpress.Web.ASPxButton
 End Class

@@ -28,7 +28,7 @@ Partial Public Class PasteFromWordForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected MainPanel As Global.DevExpress.Web.ASPxPanel.ASPxPanel
+	Protected MainPanel As Global.DevExpress.Web.ASPxPanel
 
 	''' <summary>
 	''' PanelContent1 control.
@@ -37,7 +37,7 @@ Partial Public Class PasteFromWordForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected PanelContent1 As Global.DevExpress.Web.ASPxPanel.PanelContent
+	Protected PanelContent1 As Global.DevExpress.Web.PanelContent
 
 	''' <summary>
 	''' lblB141214 control.
@@ -46,7 +46,7 @@ Partial Public Class PasteFromWordForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected lblB141214 As Global.DevExpress.Web.ASPxEditors.ASPxLabel
+	Protected lblB141214 As Global.DevExpress.Web.ASPxLabel
 
 	''' <summary>
 	''' lblDescription control.
@@ -55,7 +55,7 @@ Partial Public Class PasteFromWordForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected lblDescription As Global.DevExpress.Web.ASPxEditors.ASPxLabel
+	Protected lblDescription As Global.DevExpress.Web.ASPxLabel
 
 	''' <summary>
 	''' ckbStripFont control.
@@ -64,7 +64,7 @@ Partial Public Class PasteFromWordForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected ckbStripFont As Global.DevExpress.Web.ASPxEditors.ASPxCheckBox
+	Protected ckbStripFont As Global.DevExpress.Web.ASPxCheckBox
 
 	''' <summary>
 	''' btnOk control.
@@ -73,7 +73,7 @@ Partial Public Class PasteFromWordForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected btnOk As Global.DevExpress.Web.ASPxEditors.ASPxButton
+	Protected btnOk As Global.DevExpress.Web.ASPxButton
 
 	''' <summary>
 	''' btnCancel control.
@@ -82,5 +82,5 @@ Partial Public Class PasteFromWordForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected btnCancel As Global.DevExpress.Web.ASPxEditors.ASPxButton
+	Protected btnCancel As Global.DevExpress.Web.ASPxButton
 End Class

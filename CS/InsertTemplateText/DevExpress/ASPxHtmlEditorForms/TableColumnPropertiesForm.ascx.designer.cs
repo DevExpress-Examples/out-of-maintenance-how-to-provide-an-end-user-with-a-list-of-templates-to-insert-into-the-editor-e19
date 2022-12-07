@@ -25,7 +25,7 @@ public partial class TableColumnPropertiesForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxPanel.ASPxPanel MainPanel;
+    protected global::DevExpress.Web.ASPxPanel MainPanel;
     
     /// <summary>
     /// PanelContent1 control.
@@ -34,7 +34,7 @@ public partial class TableColumnPropertiesForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxPanel.PanelContent PanelContent1;
+    protected global::DevExpress.Web.PanelContent PanelContent1;
     
     /// <summary>
     /// rpSize control.
@@ -61,7 +61,7 @@ public partial class TableColumnPropertiesForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxLabel lblSize;
+    protected global::DevExpress.Web.ASPxLabel lblSize;
     
     /// <summary>
     /// lblWidth control.
@@ -70,7 +70,7 @@ public partial class TableColumnPropertiesForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxLabel lblWidth;
+    protected global::DevExpress.Web.ASPxLabel lblWidth;
     
     /// <summary>
     /// cmbWidth control.
@@ -79,7 +79,7 @@ public partial class TableColumnPropertiesForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxComboBox cmbWidth;
+    protected global::DevExpress.Web.ASPxComboBox cmbWidth;
     
     /// <summary>
     /// txbWidth control.
@@ -88,7 +88,7 @@ public partial class TableColumnPropertiesForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxSpinEdit txbWidth;
+    protected global::DevExpress.Web.ASPxSpinEdit txbWidth;
     
     /// <summary>
     /// cmbWidthType control.
@@ -97,7 +97,7 @@ public partial class TableColumnPropertiesForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxComboBox cmbWidthType;
+    protected global::DevExpress.Web.ASPxComboBox cmbWidthType;
     
     /// <summary>
     /// lblHeight control.
@@ -106,7 +106,7 @@ public partial class TableColumnPropertiesForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxLabel lblHeight;
+    protected global::DevExpress.Web.ASPxLabel lblHeight;
     
     /// <summary>
     /// cmbHeight control.
@@ -115,7 +115,7 @@ public partial class TableColumnPropertiesForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxComboBox cmbHeight;
+    protected global::DevExpress.Web.ASPxComboBox cmbHeight;
     
     /// <summary>
     /// txbHeight control.
@@ -124,7 +124,7 @@ public partial class TableColumnPropertiesForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxSpinEdit txbHeight;
+    protected global::DevExpress.Web.ASPxSpinEdit txbHeight;
     
     /// <summary>
     /// cmbHeightType control.
@@ -133,7 +133,7 @@ public partial class TableColumnPropertiesForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxComboBox cmbHeightType;
+    protected global::DevExpress.Web.ASPxComboBox cmbHeightType;
     
     /// <summary>
     /// rpLayout control.
@@ -160,7 +160,7 @@ public partial class TableColumnPropertiesForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxLabel lblAlign;
+    protected global::DevExpress.Web.ASPxLabel lblAlign;
     
     /// <summary>
     /// lblHorizontalAlign control.
@@ -169,7 +169,7 @@ public partial class TableColumnPropertiesForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxLabel lblHorizontalAlign;
+    protected global::DevExpress.Web.ASPxLabel lblHorizontalAlign;
     
     /// <summary>
     /// cmbAlign control.
@@ -178,7 +178,7 @@ public partial class TableColumnPropertiesForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxComboBox cmbAlign;
+    protected global::DevExpress.Web.ASPxComboBox cmbAlign;
     
     /// <summary>
     /// lblVerticalAlign control.
@@ -187,7 +187,7 @@ public partial class TableColumnPropertiesForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxLabel lblVerticalAlign;
+    protected global::DevExpress.Web.ASPxLabel lblVerticalAlign;
     
     /// <summary>
     /// cmbVAlign control.
@@ -196,7 +196,7 @@ public partial class TableColumnPropertiesForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxComboBox cmbVAlign;
+    protected global::DevExpress.Web.ASPxComboBox cmbVAlign;
     
     /// <summary>
     /// rpAppearance control.
@@ -223,7 +223,7 @@ public partial class TableColumnPropertiesForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxLabel lblAppearance;
+    protected global::DevExpress.Web.ASPxLabel lblAppearance;
     
     /// <summary>
     /// lblBackgroundColor control.
@@ -232,7 +232,7 @@ public partial class TableColumnPropertiesForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxLabel lblBackgroundColor;
+    protected global::DevExpress.Web.ASPxLabel lblBackgroundColor;
     
     /// <summary>
     /// txbBackgroundColor control.
@@ -241,7 +241,7 @@ public partial class TableColumnPropertiesForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxColorEdit txbBackgroundColor;
+    protected global::DevExpress.Web.ASPxColorEdit txbBackgroundColor;
     
     /// <summary>
     /// ckbApplyForAllElements control.
@@ -250,7 +250,7 @@ public partial class TableColumnPropertiesForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxCheckBox ckbApplyForAllElements;
+    protected global::DevExpress.Web.ASPxCheckBox ckbApplyForAllElements;
     
     /// <summary>
     /// btnChange control.
@@ -259,7 +259,7 @@ public partial class TableColumnPropertiesForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxButton btnChange;
+    protected global::DevExpress.Web.ASPxButton btnChange;
     
     /// <summary>
     /// btnCancel control.
@@ -268,5 +268,5 @@ public partial class TableColumnPropertiesForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxButton btnCancel;
+    protected global::DevExpress.Web.ASPxButton btnCancel;
 }

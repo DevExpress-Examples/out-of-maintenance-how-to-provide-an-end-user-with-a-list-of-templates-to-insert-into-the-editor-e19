@@ -41,7 +41,7 @@ Namespace InsertTemplateText
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxPopupControl1 As Global.DevExpress.Web.ASPxPopupControl.ASPxPopupControl
+		Protected ASPxPopupControl1 As Global.DevExpress.Web.ASPxPopupControl
 
 		''' <summary>
 		''' ASPxListBox1 control.
@@ -50,7 +50,7 @@ Namespace InsertTemplateText
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxListBox1 As Global.DevExpress.Web.ASPxEditors.ASPxListBox
+		Protected ASPxListBox1 As Global.DevExpress.Web.ASPxListBox
 
 		''' <summary>
 		''' btnInsert control.
@@ -59,7 +59,7 @@ Namespace InsertTemplateText
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected btnInsert As Global.DevExpress.Web.ASPxEditors.ASPxButton
+		Protected btnInsert As Global.DevExpress.Web.ASPxButton
 
 		''' <summary>
 		''' btnCancel control.
@@ -68,6 +68,6 @@ Namespace InsertTemplateText
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected btnCancel As Global.DevExpress.Web.ASPxEditors.ASPxButton
+		Protected btnCancel As Global.DevExpress.Web.ASPxButton
 	End Class
 End Namespace

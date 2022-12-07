@@ -27,8 +27,7 @@ Imports System.Web.UI.WebControls.WebParts
 Imports System.Web.UI.HtmlControls
 Imports DevExpress.Web.ASPxHtmlEditor
 Imports DevExpress.Web.ASPxHtmlEditor.Localization
-Imports DevExpress.Web.ASPxClasses
-Imports DevExpress.Web.ASPxEditors
+Imports DevExpress.Web
 
 Partial Public Class InsertImageForm
 	Inherits HtmlEditorUserControl
@@ -74,7 +73,7 @@ Partial Public Class InsertImageForm
 		End If
 		Return Path.GetFileName(fileName)
 	End Function
-	Protected Sub uplImage_FileUploadComplete(ByVal sender As Object, ByVal args As DevExpress.Web.ASPxUploadControl.FileUploadCompleteEventArgs)
+	Protected Sub uplImage_FileUploadComplete(ByVal sender As Object, ByVal args As DevExpress.Web.FileUploadCompleteEventArgs)
 		Try
 			args.CallbackData = SaveUploadFile()
 		Catch e As Exception

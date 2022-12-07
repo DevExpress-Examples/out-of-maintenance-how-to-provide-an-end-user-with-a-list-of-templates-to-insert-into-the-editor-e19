@@ -5,7 +5,7 @@ Imports System.Web
 Imports System.Web.UI
 Imports System.Web.UI.WebControls
 Imports DevExpress.Web.ASPxHtmlEditor
-Imports DevExpress.Web.ASPxEditors
+Imports DevExpress.Web
 Imports DevExpress.Web.ASPxHtmlEditor.Localization
 
 Partial Public Class InsertTableForm

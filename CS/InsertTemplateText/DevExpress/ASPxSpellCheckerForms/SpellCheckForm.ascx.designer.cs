@@ -34,7 +34,7 @@ public partial class SpellCheckForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxButton btnIgnore;
+    protected global::DevExpress.Web.ASPxButton btnIgnore;
     
     /// <summary>
     /// btnIgnoreAll control.
@@ -43,7 +43,7 @@ public partial class SpellCheckForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxButton btnIgnoreAll;
+    protected global::DevExpress.Web.ASPxButton btnIgnoreAll;
     
     /// <summary>
     /// btnAddToDictionary control.
@@ -52,7 +52,7 @@ public partial class SpellCheckForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxButton btnAddToDictionary;
+    protected global::DevExpress.Web.ASPxButton btnAddToDictionary;
     
     /// <summary>
     /// ChangeToPanel control.
@@ -61,7 +61,7 @@ public partial class SpellCheckForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxPanel.ASPxPanel ChangeToPanel;
+    protected global::DevExpress.Web.ASPxPanel ChangeToPanel;
     
     /// <summary>
     /// PanelContent1 control.
@@ -70,7 +70,7 @@ public partial class SpellCheckForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxPanel.PanelContent PanelContent1;
+    protected global::DevExpress.Web.PanelContent PanelContent1;
     
     /// <summary>
     /// txtChangeTo control.
@@ -79,7 +79,7 @@ public partial class SpellCheckForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxTextBox txtChangeTo;
+    protected global::DevExpress.Web.ASPxTextBox txtChangeTo;
     
     /// <summary>
     /// SCSuggestionsListBox control.
@@ -88,7 +88,7 @@ public partial class SpellCheckForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxListBox SCSuggestionsListBox;
+    protected global::DevExpress.Web.ASPxListBox SCSuggestionsListBox;
     
     /// <summary>
     /// btnChange control.
@@ -97,7 +97,7 @@ public partial class SpellCheckForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxButton btnChange;
+    protected global::DevExpress.Web.ASPxButton btnChange;
     
     /// <summary>
     /// btnChangeAll control.
@@ -106,7 +106,7 @@ public partial class SpellCheckForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxButton btnChangeAll;
+    protected global::DevExpress.Web.ASPxButton btnChangeAll;
     
     /// <summary>
     /// btnOptions control.
@@ -115,7 +115,7 @@ public partial class SpellCheckForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxButton btnOptions;
+    protected global::DevExpress.Web.ASPxButton btnOptions;
     
     /// <summary>
     /// btnClose control.
@@ -124,5 +124,5 @@ public partial class SpellCheckForm {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxButton btnClose;
+    protected global::DevExpress.Web.ASPxButton btnClose;
 }

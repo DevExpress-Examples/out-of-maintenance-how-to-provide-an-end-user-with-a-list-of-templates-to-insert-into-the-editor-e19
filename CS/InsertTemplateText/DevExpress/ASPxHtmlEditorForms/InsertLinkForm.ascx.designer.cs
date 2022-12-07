@@ -25,7 +25,7 @@ public partial class InsertLinkFrom {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxPanel.ASPxPanel MainPanel;
+    protected global::DevExpress.Web.ASPxPanel MainPanel;
     
     /// <summary>
     /// rblLinkType control.
@@ -34,7 +34,7 @@ public partial class InsertLinkFrom {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxRadioButtonList rblLinkType;
+    protected global::DevExpress.Web.ASPxRadioButtonList rblLinkType;
     
     /// <summary>
     /// rpInsertLink control.
@@ -52,7 +52,7 @@ public partial class InsertLinkFrom {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxLabel lblUrl;
+    protected global::DevExpress.Web.ASPxLabel lblUrl;
     
     /// <summary>
     /// txbURL control.
@@ -61,7 +61,7 @@ public partial class InsertLinkFrom {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxTextBox txbURL;
+    protected global::DevExpress.Web.ASPxTextBox txbURL;
     
     /// <summary>
     /// lblEmailTo control.
@@ -70,7 +70,7 @@ public partial class InsertLinkFrom {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxLabel lblEmailTo;
+    protected global::DevExpress.Web.ASPxLabel lblEmailTo;
     
     /// <summary>
     /// txbEmailTo control.
@@ -79,7 +79,7 @@ public partial class InsertLinkFrom {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxTextBox txbEmailTo;
+    protected global::DevExpress.Web.ASPxTextBox txbEmailTo;
     
     /// <summary>
     /// lblSubject control.
@@ -88,7 +88,7 @@ public partial class InsertLinkFrom {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxLabel lblSubject;
+    protected global::DevExpress.Web.ASPxLabel lblSubject;
     
     /// <summary>
     /// txbSubject control.
@@ -97,7 +97,7 @@ public partial class InsertLinkFrom {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxTextBox txbSubject;
+    protected global::DevExpress.Web.ASPxTextBox txbSubject;
     
     /// <summary>
     /// lblLinkDisplay control.
@@ -106,7 +106,7 @@ public partial class InsertLinkFrom {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxLabel lblLinkDisplay;
+    protected global::DevExpress.Web.ASPxLabel lblLinkDisplay;
     
     /// <summary>
     /// lblText control.
@@ -115,7 +115,7 @@ public partial class InsertLinkFrom {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxLabel lblText;
+    protected global::DevExpress.Web.ASPxLabel lblText;
     
     /// <summary>
     /// txbText control.
@@ -124,7 +124,7 @@ public partial class InsertLinkFrom {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxTextBox txbText;
+    protected global::DevExpress.Web.ASPxTextBox txbText;
     
     /// <summary>
     /// lblToolTip control.
@@ -133,7 +133,7 @@ public partial class InsertLinkFrom {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxLabel lblToolTip;
+    protected global::DevExpress.Web.ASPxLabel lblToolTip;
     
     /// <summary>
     /// txbToolTip control.
@@ -142,7 +142,7 @@ public partial class InsertLinkFrom {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxTextBox txbToolTip;
+    protected global::DevExpress.Web.ASPxTextBox txbToolTip;
     
     /// <summary>
     /// ckbOpenInNewWindow control.
@@ -151,7 +151,7 @@ public partial class InsertLinkFrom {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxCheckBox ckbOpenInNewWindow;
+    protected global::DevExpress.Web.ASPxCheckBox ckbOpenInNewWindow;
     
     /// <summary>
     /// btnOk control.
@@ -160,7 +160,7 @@ public partial class InsertLinkFrom {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxButton btnOk;
+    protected global::DevExpress.Web.ASPxButton btnOk;
     
     /// <summary>
     /// btnChange control.
@@ -169,7 +169,7 @@ public partial class InsertLinkFrom {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxButton btnChange;
+    protected global::DevExpress.Web.ASPxButton btnChange;
     
     /// <summary>
     /// btnCancel control.
@@ -178,5 +178,5 @@ public partial class InsertLinkFrom {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxButton btnCancel;
+    protected global::DevExpress.Web.ASPxButton btnCancel;
 }

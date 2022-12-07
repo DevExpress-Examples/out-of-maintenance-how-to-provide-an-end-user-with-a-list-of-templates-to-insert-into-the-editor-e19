@@ -37,7 +37,7 @@ Partial Public Class SpellCheckForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected btnIgnore As Global.DevExpress.Web.ASPxEditors.ASPxButton
+	Protected btnIgnore As Global.DevExpress.Web.ASPxButton
 
 	''' <summary>
 	''' btnIgnoreAll control.
@@ -46,7 +46,7 @@ Partial Public Class SpellCheckForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected btnIgnoreAll As Global.DevExpress.Web.ASPxEditors.ASPxButton
+	Protected btnIgnoreAll As Global.DevExpress.Web.ASPxButton
 
 	''' <summary>
 	''' btnAddToDictionary control.
@@ -55,7 +55,7 @@ Partial Public Class SpellCheckForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected btnAddToDictionary As Global.DevExpress.Web.ASPxEditors.ASPxButton
+	Protected btnAddToDictionary As Global.DevExpress.Web.ASPxButton
 
 	''' <summary>
 	''' ChangeToPanel control.
@@ -64,7 +64,7 @@ Partial Public Class SpellCheckForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected ChangeToPanel As Global.DevExpress.Web.ASPxPanel.ASPxPanel
+	Protected ChangeToPanel As Global.DevExpress.Web.ASPxPanel
 
 	''' <summary>
 	''' PanelContent1 control.
@@ -73,7 +73,7 @@ Partial Public Class SpellCheckForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected PanelContent1 As Global.DevExpress.Web.ASPxPanel.PanelContent
+	Protected PanelContent1 As Global.DevExpress.Web.PanelContent
 
 	''' <summary>
 	''' txtChangeTo control.
@@ -82,7 +82,7 @@ Partial Public Class SpellCheckForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected txtChangeTo As Global.DevExpress.Web.ASPxEditors.ASPxTextBox
+	Protected txtChangeTo As Global.DevExpress.Web.ASPxTextBox
 
 	''' <summary>
 	''' SCSuggestionsListBox control.
@@ -91,7 +91,7 @@ Partial Public Class SpellCheckForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected SCSuggestionsListBox As Global.DevExpress.Web.ASPxEditors.ASPxListBox
+	Protected SCSuggestionsListBox As Global.DevExpress.Web.ASPxListBox
 
 	''' <summary>
 	''' btnChange control.
@@ -100,7 +100,7 @@ Partial Public Class SpellCheckForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected btnChange As Global.DevExpress.Web.ASPxEditors.ASPxButton
+	Protected btnChange As Global.DevExpress.Web.ASPxButton
 
 	''' <summary>
 	''' btnChangeAll control.
@@ -109,7 +109,7 @@ Partial Public Class SpellCheckForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected btnChangeAll As Global.DevExpress.Web.ASPxEditors.ASPxButton
+	Protected btnChangeAll As Global.DevExpress.Web.ASPxButton
 
 	''' <summary>
 	''' btnOptions control.
@@ -118,7 +118,7 @@ Partial Public Class SpellCheckForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected btnOptions As Global.DevExpress.Web.ASPxEditors.ASPxButton
+	Protected btnOptions As Global.DevExpress.Web.ASPxButton
 
 	''' <summary>
 	''' btnClose control.
@@ -127,5 +127,5 @@ Partial Public Class SpellCheckForm
 	''' Auto-generated field.
 	''' To modify move field declaration from designer file to code-behind file.
 	''' </remarks>
-	Protected btnClose As Global.DevExpress.Web.ASPxEditors.ASPxButton
+	Protected btnClose As Global.DevExpress.Web.ASPxButton
 End Class

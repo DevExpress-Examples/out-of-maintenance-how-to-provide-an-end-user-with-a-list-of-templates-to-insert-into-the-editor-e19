@@ -38,7 +38,7 @@ namespace InsertTemplateText {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxPopupControl.ASPxPopupControl ASPxPopupControl1;
+        protected global::DevExpress.Web.ASPxPopupControl ASPxPopupControl1;
         
         /// <summary>
         /// ASPxListBox1 control.
@@ -47,7 +47,7 @@ namespace InsertTemplateText {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxListBox ASPxListBox1;
+        protected global::DevExpress.Web.ASPxListBox ASPxListBox1;
         
         /// <summary>
         /// btnInsert control.
@@ -56,7 +56,7 @@ namespace InsertTemplateText {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnInsert;
+        protected global::DevExpress.Web.ASPxButton btnInsert;
         
         /// <summary>
         /// btnCancel control.
@@ -65,6 +65,6 @@ namespace InsertTemplateText {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnCancel;
+        protected global::DevExpress.Web.ASPxButton btnCancel;
     }
 }
